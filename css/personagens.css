@@ -1,0 +1,105 @@
+/* Reset + Fonte Geral */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Verdana, Tahoma, sans-serif;
+}
+
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+/* Background */
+body {
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0)),
+    url(/images/cabana.jpg) fixed;
+  background-size: cover;
+}
+
+/* TEXTO ESCOLHA PERSONAGEM */
+.personagensFlex {
+  max-width: 100vw;
+  height: calc(100vh - 20px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.displayPersonagens {
+  background-image: url(/images/parchment.png);
+  width: 650px;
+  height: 501px;
+  opacity: 90%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+article > h1,
+.texto-principal {
+  padding: 0 11.2% 3% 12.5%;
+}
+
+/* Rodapé */
+footer {
+  height: 20px;
+}
+
+.rodape {
+  background-color: rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(3px);
+  -webkit-backdrop-filter: blur(3px);
+  width: 100%;
+  height: 100%;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* PERSONAGENS */
+.personagens {
+  width: 75%;
+}
+
+.personagens ul {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+.personagens li {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.bobbyimg {
+  width: 4rem;
+  height: 5.4rem;
+}
+
+.prestoimg {
+  width: 3.8rem;
+  height: 7.5rem;
+}
+
+.sheilaimg {
+  width: 4.5rem;
+  height: 5rem;
+}
+
+.personagens img {
+  transition: 0.4s;
+}
+
+.personagens img:hover {
+  filter: drop-shadow(0 10px 16px rgba(188, 96, 10, 0.9));
+}
