@@ -14,7 +14,7 @@ html {
 
 /* Background */
 body {
-  background: url(/images/estradaprincipal.jpg) fixed;
+  background: url(../images/estradaprincipal.jpg) fixed;
   background-size: cover;
 }
 
@@ -28,7 +28,7 @@ body {
 }
 
 .displayInicio {
-  background-image: url(/images/parchment.png);
+  background-image: url(../images/parchment.png);
   width: 650px;
   height: 501px;
   opacity: 90%;

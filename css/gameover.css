@@ -15,7 +15,7 @@ html {
 /* Background */
 body {
   background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.9)),
-    url(/images/cabana.jpg) fixed;
+    url(../images/cabana.jpg) fixed;
   background-size: cover;
 }
 
@@ -30,7 +30,7 @@ body {
 }
 
 .displayPersonagem {
-  background-image: url(/images/parchment.png);
+  background-image: url(../images/parchment.png);
   width: 650px;
   height: 501px;
   opacity: 90%;
