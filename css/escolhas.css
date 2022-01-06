@@ -45,6 +45,7 @@ article > .texto-principal {
 }
 
 article p + p {
+  padding: 0 0 3% 0;
   font-weight: bold;
 }
 
