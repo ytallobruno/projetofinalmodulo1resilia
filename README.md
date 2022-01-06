@@ -1,6 +1,7 @@
 # Final de módulo: #1 / Turma 14 Resilia 🦇
 Projeto de encerramento do módulo 1, onde o objetivo foi criar um jogo de escolhas com o propósito de praticar o que aprendemos durante as aulas ministradas pelo facilitador Artur Moreira. <br>
-O tema escolhido pelo meu grupo foi "Caverna do Dragão", então busquei três personagens da história e implementei numa aventura one-shot (para uma sessão) de rpg.
+O tema escolhido pelo meu grupo foi "Caverna do Dragão", então busquei três personagens da história e implementei numa aventura one-shot (para uma sessão) de rpg.<br>
+Para uma melhor visualização, recomendo utilizar computador ou notebook para jogar!
 
 ## Acesse meu projeto! 🕹️
 Caso tenha interesse em jogar, acesse <a href="https://ytallobruno.github.io/projetofinalmodulo1resilia/"><strong>clicando aqui!</strong></a>
