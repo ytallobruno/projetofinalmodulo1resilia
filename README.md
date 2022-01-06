@@ -1,5 +1,7 @@
-# Final de módulo 1 da turma 14 na Resilia
-Projeto de encerramento de módulo, onde o objetivo do projeto foi criar um jogo de escolhas com o propósito de praticar o que aprendemos sobre html, css e um pouco da javascript.
+# Final de módulo: #1 / Turma 14 🦇 Resilia
+
+Projeto de encerramento do módulo 1, onde o objetivo foi criar um jogo de escolhas com o propósito de praticar o que aprendemos durante as aulas ministradas pelo facilitador Artur Moreira. <br>
+O tema escolhido pelo meu grupo foi "Caverna do Dragão", então busquei três personagens da história e implementei numa aventura one-shot (para uma sessão) de rpg.
 
 <img src="./CavernaDoDragão.png" alt="imagem da tela inicial do jogo">
 
