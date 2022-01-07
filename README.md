@@ -29,8 +29,8 @@ Para uma melhor visualização, recomendo utilizar computador ou notebook para j
 
 - Indentação do código
 - Tags semânticas (HTML)
+- Classes (HTML)
 - Seletores e Combinadores (CSS)
-- Classes (CSS)
 - Gradientes (CSS)
 - Pseudo-classes (CSS)
 - Display Flex (CSS)
