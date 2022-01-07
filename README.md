@@ -46,8 +46,8 @@ Para uma melhor visualização, recomendo utilizar computador ou notebook para j
   <div align="center"> 
      <a href="mailto:ytallobruno@hotmail.com"><img src="https://cdn-icons-png.flaticon.com/512/2525/2525737.png" height="40em" title="Icone do email"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://github.com/ytallobruno"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" height="40em" title="Icone do GitHub"></a>
+    <a href="https://github.com/ytallobruno" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" height="40em" title="Icone do GitHub"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/ytallobruno/"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="40em" title="Icone do LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/ytallobruno/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="40em" title="Icone do LinkedIn"></a>
   </div>
 </div>
