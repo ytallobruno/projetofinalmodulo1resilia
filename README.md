@@ -38,6 +38,7 @@ Para uma melhor visualização, recomendo <strong>utilizar computador ou noteboo
 - Prompt e Alert (JS)
 - If, Else (JS)
 - While (JS)
+- Estruturas de repetição (JS)
 
 <div id="autor" align="center">
   
