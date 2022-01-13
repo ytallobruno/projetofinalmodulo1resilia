@@ -25,6 +25,7 @@ Para uma melhor visualização, recomendo <strong>utilizar computador ou noteboo
 - [x] HTML5
 - [x] CSS3
 - [x] JavaScript
+- [x] Git
 
 <h2 id="habilidades">Habilidades Adquiridas 📝</h2>
 
