@@ -9,7 +9,7 @@
 </div>
 
 <h2 id="sobre">Sobre 🔎</h2>
-<p>Projeto de encerramento do módulo 1, onde o objetivo foi criar um jogo de escolhas com o propósito de praticar o que aprendemos durante as aulas ministradas pelo facilitador Artur Moreira. <br>
+<p>Projeto de encerramento do módulo 1, onde o objetivo foi criar um jogo de escolhas com o propósito de praticar o que aprendemos durante as aulas ministradas pelo facilitador Artur Moreira.<br>
 O tema escolhido pelo meu grupo foi "Caverna do Dragão", então busquei três personagens da história e implementei numa aventura one-shot (para uma sessão) de rpg.<br>
 A one-shot que me inspirou para história pode ser visualizada <a href="https://aventureirosdosreinos.com/a-estrada-para-portao-de-baldur/"><strong>neste link</strong></a>.<br>
 Para uma melhor visualização, recomendo <strong>utilizar computador ou notebook para jogar!</strong></p>
