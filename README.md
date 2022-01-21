@@ -9,38 +9,38 @@
 </div>
 
 <h2 id="sobre">Sobre 🔎</h2>
-<p>Projeto de encerramento do módulo 1, onde o objetivo foi criar um jogo de escolhas com o propósito de praticar o que aprendemos durante as aulas ministradas pelo facilitador Artur Moreira.<br>
-O tema escolhido pelo meu grupo foi "Caverna do Dragão", então busquei três personagens da história e implementei numa aventura one-shot (para uma sessão) de rpg.<br>
-A one-shot que me inspirou para história pode ser visualizada <a href="https://aventureirosdosreinos.com/a-estrada-para-portao-de-baldur/"><strong>neste link</strong></a>.<br>
-Para uma melhor visualização, recomendo <strong>utilizar computador ou notebook para jogar!</strong></p>
+  <p>Projeto de encerramento do módulo 1, onde o objetivo foi criar um jogo de escolhas com o propósito de praticar o que aprendemos durante as aulas ministradas pelo facilitador Artur Moreira.<br>
+  O tema escolhido pelo meu grupo foi "Caverna do Dragão", então busquei três personagens da história e implementei numa aventura one-shot (para uma sessão) de rpg.<br>
+  A one-shot que me inspirou para história pode ser visualizada <a href="https://aventureirosdosreinos.com/a-estrada-para-portao-de-baldur/"><strong>neste link</strong></a>.<br>
+  Para uma melhor visualização, recomendo <strong>utilizar computador ou notebook para jogar!</strong></p>
 
 <img src="./CavernaDoDragão.png" alt="imagem da tela inicial do jogo">
 
 <h2 id="andamento">Andamento do projeto 📈</h2>
 
-![Badge](https://img.shields.io/website?down_message=offline&label=status&style=for-the-badge&up_color=g&up_message=concluido&url=https%3A%2F%2Fytallobruno.github.io%2Fprojetofinalmodulo1resilia%2F)
+  ![Badge](https://img.shields.io/website?down_message=offline&label=status&style=for-the-badge&up_color=g&up_message=concluido&url=https%3A%2F%2Fytallobruno.github.io%2Fprojetofinalmodulo1resilia%2F)
 
 <h2 id="linguagens">Softwares & Ferramentas utilizadas nesse projeto 📚</h2>
 
-- [x] HTML5
-- [x] CSS3
-- [x] JavaScript
-- [x] Git
+  - [x] HTML5
+  - [x] CSS3
+  - [x] JavaScript
+  - [x] Git
 
 <h2 id="habilidades">Habilidades Adquiridas 📝</h2>
 
-- Indentação do código
-- Tags semânticas (HTML)
-- Classes (HTML)
-- Seletores e Combinadores (CSS)
-- Gradientes (CSS)
-- Pseudo-classes (CSS)
-- Display Flex (CSS)
-- Funções (JS)
-- Prompt e Alert (JS)
-- If, Else (JS)
-- While (JS)
-- Estruturas de repetição (JS)
+  - Indentação do código
+  - Tags semânticas (HTML)
+  - Classes (HTML)
+  - Seletores e Combinadores (CSS)
+  - Gradientes (CSS)
+  - Pseudo-classes (CSS)
+  - Display Flex (CSS)
+  - Funções (JS)
+  - Prompt e Alert (JS)
+  - If, Else (JS)
+  - While (JS)
+  - Estruturas de repetição (JS)
 
 <hr>
 
