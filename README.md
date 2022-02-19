@@ -1,10 +1,11 @@
 # Projeto final do Módulo 1: Jogo de escolhas 🕹️
 
 <div id="inicio" align=center>
-  <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;
-  <a href="#andamento">Andamento</a>&nbsp;&nbsp;&nbsp;
-  <a href="#linguagens">Softwares & Ferramentas utilizadas</a>&nbsp;&nbsp;&nbsp;
-  <a href="#habilidades">Habilidades adquiridas</a>&nbsp;&nbsp;&nbsp;
+  <a href="#sobre">Sobre</a>&nbsp;&nbsp;
+  <a href="#andamento">Andamento</a>&nbsp;&nbsp;
+  <a href="#linguagens">Softwares & Ferramentas</a>&nbsp;&nbsp;
+  <a href="#habilidades">Habilidades adquiridas</a>&nbsp;&nbsp;
+  <a href="#contribuir">Como contribuir</a>&nbsp;&nbsp;
   <a href="#autor">Autor</a> 
 </div>
 
